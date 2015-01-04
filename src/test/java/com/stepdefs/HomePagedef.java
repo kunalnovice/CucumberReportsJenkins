@@ -25,7 +25,7 @@ public class HomePagedef extends AbstractStepDefinition{
 	@Given("^givenstep$")
 	public void givenstep() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
-	   // throw new PendingException();
+	   // throw new PendingException(); comment added for the CI build to trigger
 		System.out.println("In Given Step");
 	}
 
