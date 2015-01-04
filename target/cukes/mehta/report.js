@@ -7,11 +7,11 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 8392663,
+  "duration": 14971694,
   "status": "passed"
 });
 formatter.before({
-  "duration": 53979,
+  "duration": 109100,
   "status": "passed"
 });
 formatter.scenario({
@@ -47,29 +47,29 @@ formatter.match({
   "location": "HomePagedef.givenstep()"
 });
 formatter.result({
-  "duration": 69224076,
+  "duration": 79634126,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePagedef.whenstep()"
 });
 formatter.result({
-  "duration": 35733,
+  "duration": 39915,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePagedef.thensteps()"
 });
 formatter.result({
-  "duration": 30411,
+  "duration": 29271,
   "status": "passed"
 });
 formatter.before({
-  "duration": 24709,
+  "duration": 25469,
   "status": "passed"
 });
 formatter.before({
-  "duration": 17866,
+  "duration": 15586,
   "status": "passed"
 });
 formatter.scenario({
@@ -100,14 +100,14 @@ formatter.match({
   "location": "HomePagedef.givenstep()"
 });
 formatter.result({
-  "duration": 27370,
+  "duration": 26610,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePagedef.thensteps()"
 });
 formatter.result({
-  "duration": 24709,
+  "duration": 22808,
   "status": "passed"
 });
 });
